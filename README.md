@@ -6,8 +6,9 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+[![Build Status](https://www.travis-ci.com/jaredpattison/08-socket.io.svg?branch=master)](https://www.travis-ci.com/jaredpattison/08-socket.io)
+* [repo](https://github.com/jaredpattison/08-socket.io)
+* [travis](https://www.travis-ci.com/jaredpattison/08-socket.io)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
 
